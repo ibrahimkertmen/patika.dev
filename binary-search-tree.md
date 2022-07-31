@@ -32,6 +32,7 @@ root 7'dir
 
 www.patika.dev
 
+![binary-search-tree](https://user-images.githubusercontent.com/45798350/182032737-573595a6-ef58-4390-9960-ca883806b365.png)
 
 
 
